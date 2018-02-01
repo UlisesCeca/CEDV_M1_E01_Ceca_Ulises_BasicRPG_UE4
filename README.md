@@ -2,30 +2,30 @@
 Ejercicio 1 del modulo 1 del CEDV
 .
 
-Enunciado:
 
-El ejercicio consistirá en una ampliación del proyecto manejado en las sesiones de Blueprints.
+Rules:
+The exercise will consist of an extension of the project managed in the Blueprints sessions.
 
-A continuación se establecen los requisitos mínimos para el ejercicio a resolver:
+The minimum requirements for the fiscal year to be resolved are set out below:
 
-Creación de un nuevo nivel, cuya carga o transición se realizará desde algún otro nivel a través de un nuevo portal similar al del resto de niveles.
-Integración de un HUD con información relevante asociada al nivel.
-Añadir nueva acción al personaje principal para interactuar con el entorno mediante la tecla E (e.g. activar un botón situado en la pared).
-Despliegue dinámico de enemigos cada cierto tiempo. El comportamiento de los enemigos será el de dirigirse hacia el jugador, disparando proyectiles hacia el personaje principal. No es necesario implementar IA para los enemigos; se pueden utilizar simples translaciones.
-Añadir vida al personaje principal, que se verá afectada cuando un proyectil enemigo impacte sobre el jugador o exista una colisión entre enemigo y personaje principal, haciendo uso del HUD.
-El nivel tendrá una serie de mecanismos, del mismo tipo (e.g. botón en pared), de forma que la activación de uno de ellos liberará una llave, mientras que el resto generará enemigos. Cuando el jugador se haga con la llave (no es necesario recrear animaciones), el único portal existente se reactivará de forma que el jugador pueda salir del nivel.
-Algunas consideraciones:
+Creation of a new level, whose load or transition will be made from another level through a new portal similar to the other levels.
+Integration of a HUD with relevant information associated to the level.
+Add new action to the main character to interact with the environment using the E key (e. g. activate a button on the wall).
+Dynamic deployment of enemies from time to time. The enemy's behavior will be that of moving towards the player, firing projectiles at the main character. It is not necessary to implement AI for enemies; simple translations can be used.
+Add life to the main character, which will be affected when an enemy projectile hits the player or there is a collision between enemy and main character, using HUD.
+The level will have a series of mechanisms, of the same type (e. g. button on wall), so that the activation of one of them will release a key, while the rest will generate enemies. When the player holds the key (it is not necessary to recreate animations), the only existing portal will be reactivated so that the player can leave the level.
+Some considerations:
 
-El ejercicio está pensado para ser resuelto con Blueprints, pero es posible utilizar C++ como complemento.
-Con respecto a la parte gráfica se plantea el uso de cualquier recurso cuya licencia lo permita. No es necesario representar fielmente el objeto integrar (e.g. llave).
-En este sentido, y con respecto a los recursos multimedia, es posible utilizar los disponibles en los otros casos prácticos del curso o cualquiera que tenga una licencia que permita su uso. En las siguientes páginas hay multitud de ellos:
+The exercise is intended to be solved with Blueprints, but it is possible to use C++ as a complement.
+With respect to the graphic part, the use of any resource whose license allows it is considered. It is not necessary to faithfully represent the summarized object (e. g. key).
+In this regard, and with respect to multimedia resources, it is possible to use those available in the other case studies of the course or anyone with a license to use them. On the following pages there are many of them:
 
-    https://www.blendswap.com/
+    Sync by YYeTs. net
     https://poly.google.com/ (Google)
-    https://www.remix3d.com/ (Microsoft)
-    http://www.cadnav.com/
-    https://opengameart.org/
-    http://kenney.nl/assets
-El resultado de la solución del ejercicio ha de ser un archivo .zip con el contenido del proyecto (File->Zip Up Project) y cuyo nombre siga el siguiente convenio: CEDV_M1_E01_apellido1_nombre.zip (e.g. CEDV_M1_E01_Vallejo_David.zip). Es importante que el proyecto empaquetado se puede abrir en la propia instalación de UE4.
+    https://www.remix3d.com/ (Michael)
+    Sync by YYeTs. net
+    Sync by YYeTs. net
+    Sync by YYeTs. net
+The result of the solution of the exercise must be a. zip file with the content of the project (File->Zip Up Project) and whose name follows the following agreement: CEDV_M1_E01_last name1_name. zip (e. g. CEDV_M1_E01_Vallejo_David. zip). It is important that the packaged project can be opened in the EU4 facility itself.
 
-Debido a las limitaciones de tamaño máximo de las tareas en Moodle, este archivo .zip deberá subirse a alguna plataforma como WeTransfer o Dropbox y la URL resultante será la que se adjunte en la tarea de CampusVirtual.
+Due to the maximum size limitations of the tasks in Moodle, this. zip file must be uploaded to a platform such as WeTransfer or Dropbox and the resulting URL will be the one attached to the CampusVirtual task.
