@@ -3,7 +3,7 @@ Ejercicio 1 del modulo 1 del CEDV
 .
 
 
-Rules:
+Exercise statement:
 The exercise will consist of an extension of the project managed in the Blueprints sessions.
 
 The minimum requirements for the fiscal year to be resolved are set out below:
